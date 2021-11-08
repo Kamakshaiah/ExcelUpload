@@ -1,4 +1,4 @@
 # ExcelUpload
 Python Flask Application for  Uploading Excel Files
 
-Contact +919848396972 or write to contact@bse-cs.com for training and consultancy. 
+Contact +919848396972 or write to dr.m.kamakshaiah@gmail.com for training and consultancy. 
